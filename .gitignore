@@ -2,3 +2,7 @@
 .venv/
 downloads/
 mydb.db
+config.yaml
+cookies.json
+cookies.txt
+download.log
